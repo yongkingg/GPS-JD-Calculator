@@ -8,16 +8,6 @@ def date2gwgs(year,month,day,hour,min,sec):
 date2gwgs(2019,6,21,17,30,0)
 
 
-adfafdasfadsfffdf
-adadadad
-
-
-
-
-
-
-
-
 
 
 
